@@ -1,4 +1,4 @@
-## Basic Algorithms
+## Supervised Learning - Machine LEarning Models
 # 
 
 This Repository consists of every Supervised-LEarning models that I have learned/practiced. You are Free to take and use these projects as per your understanding need. Enjoy your tour to my Supervised Models🌾!!
