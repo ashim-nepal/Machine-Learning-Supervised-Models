@@ -14,7 +14,6 @@ This Repository consists of every Supervised-LEarning models that I have learned
 ## Author
 
 - [@ashim-nepal](https://www.github.com/ashim-nepal)
-- [Ashim Nepal](https://washimnepal.com.np)
 
 ## FAQ
 
